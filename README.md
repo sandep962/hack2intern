@@ -1,51 +1,66 @@
-# Welcome to your Expo app 👋
+# **Disaster Management Emergency Response App**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### **Overview**  
+This app is a revolutionary emergency response platform that bridges the gap in traditional disaster management systems. It provides **real-time, location-based connections** to emergency services during natural or man-made disasters, saving lives by ensuring fast and reliable assistance.  
 
-## Get started
+---
 
-1. Install dependencies
+## **Features**  
 
+### **1. Real-Time Location Sharing**  
+- Automatically detects and shares the user’s location (latitude and longitude).  
+- Ensures precise routing of alerts to the nearest emergency service.  
+
+### **2. Multi-Department Support**  
+- Connects to services like:  
+  - Police Departments  
+  - Fire Brigades  
+  - Ambulance Services  
+  - Disaster Relief Teams  
+  - Rescue Operations (landslides, missing persons).  
+
+### **3. Offline and Online Functionality**  
+- Operates seamlessly in offline mode using satellite communication and cached data.  
+
+### **4. One-Click Emergency Alerts**  
+- Simplifies the process of reaching emergency departments with a single tap.  
+
+### **5. Advanced Routing**  
+- Uses the **Haversine formula** to calculate the nearest department for fast response times.  
+
+---
+
+## **Tech Stack**  
+
+### **Frontend**  
+- **React.js**: For building the user interface.  
+- **Redux**: For state management.  
+
+### **Backend**  
+- **Node.js**: Server-side logic and API development.  
+- **Express.js**: Backend routing and middleware.  
+
+### **Database**  
+- **MongoDB**: Stores emergency alerts, user data, and department information.  
+
+### **APIs and Tools**  
+- **Google Maps API** or **OpenStreetMap**: For geolocation and routing.  
+- **Firebase Cloud Messaging**: For emergency push notifications.  
+- **Satellite Communication API**: For offline functionality.  
+
+### **Infrastructure**  
+- **AWS/GCP**: For hosting and scalability.  
+
+---
+
+## **Installation**  
+
+### **Prerequisites**  
+- **Node.js** and **npm** installed.  
+- **MongoDB** server running locally or accessible remotely.  
+
+### **Steps**  
+1. Clone the repository:  
    ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# hack2intern
+   git clone <repository-url>
+   cd <repository-folder>
