@@ -1,0 +1,334 @@
+[
+  {
+    "Sl. No.": 1,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "C.S Pur Police Station",
+    "location": "CHANDRASEKHARPUR",
+    "address": "Near Capital Eng. College, Patia",
+    "phone no": "0674-2741999",
+    "Inspector-In-Charge": "Sri Jubaraj Swain"
+  },
+  {
+    "Sl. No.": 2,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Capital Police Station",
+    "location": "BAPUJINAGAR",
+    "address": "Rajpath, Near SBI Main Branch, Unit-I",
+    "phone no": "0674-2533732",
+    "Inspector-In-Charge": "Sri G.S.Chakrabarty"
+  },
+  {
+    "Sl. No.": 3,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Lingaraj Police Station",
+    "location": "OLD TOWN",
+    "address": "In front of Lingaraj Temple, Old Town",
+    "phone no": "0674-2340475",
+    "Inspector-In-Charge": "Sri Sarat Ch. Patra "
+  },
+  {
+    "Sl. No.": 4,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Commissionerate Traffic Police",
+    "location": "ASHOKNAGAR",
+    "address": "Near A.G.Square",
+    "phone no": "0674-2530941",
+    "Inspector-In-Charge": "Sri Surendra Kumar Bal"
+  },
+  {
+    "Sl. No.": 5,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Badagada Police Station",
+    "location": "BADAGADA",
+    "address": "Badagada BRIT Colony",
+    "phone no": "0674-2310320",
+    "Inspector-In-Charge": "Sri Biswaranjan Nayak"
+  },
+  {
+    "Sl. No.": 6,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Khandagiri Police Station",
+    "location": "KHANDAGIRI",
+    "address": "Khandagiri Sqr, NH-5",
+    "phone no": "0674-2350100",
+    "Inspector-In-Charge": "Sri Padmanav Pradhan"
+  },
+  {
+    "Sl. No.": 7,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Nayapalli Police Station",
+    "location": "NAYAPALLI",
+    "address": "Near ISKCON Temple, NH-5,Nayapalli",
+    "phone no": "0674-2556668",
+    "Inspector-In-Charge": "Sri Sarat Kumar Sahu"
+  },
+  {
+    "Sl. No.": 8,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Laxmisagar Police Station",
+    "location": "LAXMISAGAR-31",
+    "address": "Near Spl. Jail, Laxmisagar",
+    "phone no": "0674-2571099",
+    "Inspector-In-Charge": "Sri Bharat Charan Sahoo"
+  },
+  {
+    "Sl. No.": 9,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Mancheswar Police Station",
+    "location": "MANCHESWAR",
+    "address": "Mancheswar Industrial Estate",
+    "phone no": "0674-2585881",
+    "Inspector-In-Charge": ""
+  },
+  {
+    "Sl. No.": 10,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Infocity Police Station",
+    "location": "INFOCITY",
+    "address": "Near Magnetics Square,Chandrasekharpur",
+    "phone no": "0674-2725700",
+    "Inspector-In-Charge": ""
+  },
+  {
+    "Sl. No.": 11,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Mahila Police Station",
+    "location": "BAPUJINAGAR",
+    "address": "Rajpath, Near Daily Market, Unit-I",
+    "phone no": "0674-2530694",
+    "Inspector-In-Charge": "Smt. Banita Moharana"
+  },
+  {
+    "Sl. No.": 12,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Kharabelanagar Police Station",
+    "location": "KHARBELNAGAR",
+    "address": "Janpath, Near Gurudwar, Unit-III",
+    "phone no": "0674-2534272",
+    "Inspector-In-Charge": "Sri Arun Kumar Swain"
+  },
+  {
+    "Sl. No.": 13,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Saheed Nagar Police Station",
+    "location": "VANIVihar",
+    "address": "Near Utkal University,Vani Vihar",
+    "phone no": "0674-2541064",
+    "Inspector-In-Charge": "Sri Himansu Bhusan Swain"
+  },
+  {
+    "Sl. No.": 14,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "DCP Office",
+    "location": "VANIVihar",
+    "address": "Vanivihar Square, Janpath Rd, Gridco Colony, Bhoi Nagar, Bhubaneswar, Odisha 751022",
+    "phone no": "0674-254 0555",
+    "Inspector-In-Charge": "NA"
+  },
+  {
+    "Sl. No.": 15,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "New DCP Office",
+    "location": "GOPABANDHUNAGAR",
+    "address": "NA",
+    "phone no": "NA",
+    "Inspector-In-Charge": "NA"
+  },
+  {
+    "Sl. No.": 16,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Air Field Police Station",
+    "location": "NA",
+    "address": "Near Vivekananda Sikhya Kendra",
+    "phone no": "0674-2590192",
+    "Inspector-In-Charge": "Sri Deepak Kumar Mishra"
+  },
+  {
+    "Sl. No.": 17,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Balianta Police Station",
+    "location": "Balianta",
+    "address": "Balianta, Dist-Khurda",
+    "phone no": "0674-2461333",
+    "Inspector-In-Charge": "Sri Pradipta Ku. Rout"
+  },
+  {
+    "Sl. No.": 18,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Jatani Police Station",
+    "location": "Jatani P.S",
+    "address": "Near Town Hall, Jatni Bhubaneswar",
+    "phone no": "0674-2490656",
+    "Inspector-In-Charge": "Sri Biswaranjan Sahoo"
+  },
+  {
+    "Sl. No.": 19,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Energy Police Station",
+    "location": "Energy P.S",
+    "address": "Qr.No-3R/1,Near Power House Square, Bhubaneswar",
+    "phone no": "0674-2396020",
+    "Inspector-In-Charge": "Shri Sudeep Ku. Mohapatra"
+  },
+  {
+    "Sl. No.": 20,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Nandankanan Police Station",
+    "location": "Nandankanan P.S",
+    "address": "Near nandankanan Zoological Park, Bhubaneswar",
+    "phone no": "0674-2466100",
+    "Inspector-In-Charge": "Sri Biswaranjan Senapati"
+  },
+  {
+    "Sl. No.": 21,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Chandaka Police Station",
+    "location": "Chandaka P.S",
+    "address": "Near Revenue Office, Chandaka, Bhubaneswar",
+    "phone no": "0674-2466000",
+    "Inspector-In-Charge": "Sri Debendra kumar Biswal"
+  },
+  {
+    "Sl. No.": 22,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Balipatna Police Station",
+    "location": "Balipatna",
+    "address": "Near Balipatna College, Balipatna, Bhubaneswar",
+    "phone no": "0674-2462219",
+    "Inspector-In-Charge": "Sri Radhakanta Sahu"
+  },
+  {
+    "Sl. No.": 23,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": " Tamando Police Station",
+    "location": "Tamando",
+    "address": "Tamando, NH-5,  Bhubaneswar",
+    "phone no": "0674-2475252",
+    "Inspector-In-Charge": "Sri Pramod Kumar Pattnaik"
+  },
+  {
+    "Sl. No.": 24,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Dhauli Police Station",
+    "location": "Dhauli",
+    "address": "Gopinathpur, Bhubaneswar",
+    "phone no": "0674-2465105",
+    "Inspector-In-Charge": "Sri Dayanidhi Nayak"
+  },
+  {
+    "Sl. No.": 25,
+    "City Name": "Bhubaneswar",
+    "Zone": "EAST",
+    "P.S Name": "Airport Police Station",
+    "location": "Airport",
+    "address": "Airport Squar, Bhubaneswar",
+    "phone no": "0674-2596977",
+    "Inspector-In-Charge": "Sri Umakanta Pradhan"
+  },
+  {
+    "Sl. No.": 26,
+    "City Name": "Bhubaneswar",
+    "Zone": "",
+    "P.S Name": "Traffic-II",
+    "location": "CHANDRASEKHARPUR",
+    "address": "In the campus of CSPur P.S, Near Capital Eng. College, Patia, Bhubaneswar,                                       ",
+    "phone no": "0674-2742266   ",
+    "Inspector-In-Charge": "Smt. Anjali Chhotray"
+  },
+  {
+    "Sl. No.": 27,
+    "City Name": "Bhubaneswar",
+    "Zone": "",
+    "P.S Name": "Bharatpur",
+    "location": "Bharatpur",
+    "address": "Bharatpur, Bhubaneswar",
+    "phone no": "",
+    "Inspector-In-Charge": "Sri Durga Prasad Jena"
+  },
+  {
+    "Sl. No.": 28,
+    "City Name": "Bhubaneswar",
+    "Zone": "",
+    "P.S Name": "Traffic",
+    "location": "Near A.G.Sqr",
+    "address": "Near A.G.Sqr, Bhubaneswar,",
+    "phone no": "674-2530941",
+    "Inspector-In-Charge": "Sri Surendra Kumar Bal"
+  },
+  {
+    "Sl. No.": 29,
+    "City Name": "manglore",
+    "Zone": "Karnataka",
+    "P.S Name": "manglore police station",
+    "location": {
+      "latitude": 12.9012,
+      "longitude": 75.0412
+    },
+    "address": "Near A.G.Sqr, Bhubaneswar,",
+    "phone no": "9663908391",
+    "Inspector-In-Charge": "Sri Surendra Kumar Bal"
+  },
+  {
+    "Sl. No.": 30,
+    "City Name": "belgavi",
+    "Zone": "",
+    "P.S Name": "Traffic",
+    "location": {
+      "latitude": 15.7751741,
+      "longitude": 74.4817193
+    },
+    "address": "belgavi police station,",
+    "phone no": "8088804362",
+    "Inspector-In-Charge": "Sri Surendra Kumar Bal"
+  },
+  {
+    "Sl. No.": 31,
+    "City Name": "benglore",
+    "Zone": "",
+    "P.S Name": "banglore",
+    "location": {
+      "latitude": 13.129316,
+      "longitude": 77.5868783
+    },
+    "address": "banglore police station,",
+    "phone no": "8660421640",
+    "Inspector-In-Charge": "Sri Surendra Kumar Bal"
+  },
+  {
+    "Sl. No.": 32,
+    "City Name": "Sirsi",
+    "Zone": "Karnataka",
+    "p.s Name": "Sirsi Police Station",
+    "location": {
+      "latitude": 14.6198,
+      "longitude": 74.8355
+    },
+    "address": "JR5M+89M, Sirsi, Karnataka",
+    "phone no": "8310117145",
+    "Inspector-In-Charge": "Inspector A"
+  }
+]

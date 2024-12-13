@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sandeepmon.PoliceApp"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +37,20 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d16dece7-3001-4b40-9334-9fb5af95fd74"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d16dece7-3001-4b40-9334-9fb5af95fd74"
     }
   }
 }
