@@ -1,6 +1,6 @@
 ## 🎥 Demo Video  
-Watch the complete functionality and features of the app in action:  
-[![Watch the Demo](https://drive.google.com/file/d/1gWb9OeEapTEzAjr1hMPRNs6SCSF40Jvt/view?usp=drive_link) 
+Watch the demo video here: [View Demo](https://drive.google.com/file/d/1gWb9OeEapTEzAjr1hMPRNs6SCSF40Jvt/view?usp=drive_link)
+
 # **Disaster Management Emergency Response App**
 
 ### **Overview**  
