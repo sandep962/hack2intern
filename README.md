@@ -1,5 +1,5 @@
 # 🎥 Demo Video  
-##Watch the demo video here: [View Demo](https://drive.google.com/file/d/1gWb9OeEapTEzAjr1hMPRNs6SCSF40Jvt/view?usp=drive_link)
+##Watch the demo video here: [View Demo](https://drive.google.com/file/d/1gWb9OeEapTEzAjr1hMPRNs6SCSF40Jvt/view?usp=drive_link)-only prototype exmple apk we have created
 
 # **Disaster Management Emergency Response App**
 
